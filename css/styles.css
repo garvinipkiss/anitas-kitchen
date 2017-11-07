@@ -31,8 +31,8 @@ h4 {
   text-align: center;
   background-image: url(../image/assets/backgrounds/landing.jpg);
   background: cover;
-  margin: 0px;
-	padding: 150px;
+  margin: auto;
+	padding: 0px;
 }
 
 .header {
@@ -41,14 +41,13 @@ h4 {
 }
 
 .ht {
-  height: 75px;
-  padding: 20px;
-  color: lightgrey;
+  padding: 30px;
+  color: #D3D3D3;
 }
 
 .pt {
   height: auto;
-  padding: 20px;
+  padding: 30px;
   background-color: #F15A29;
 }
 
